@@ -1,0 +1,5 @@
+<%@ val messages: com.expedia.www.platform.scalatra.i18n.UTF8Messages %>
+<%@ val others: com.expedia.www.platform.scalatra.i18n.UTF8Messages %>
+<h2>SSP</h2>
+<h2>Greeting: <%= messages.get("greeting") %></h2>
+<h2>Message: <%= others.get("message") %></h2>

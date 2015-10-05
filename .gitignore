@@ -1,0 +1,15 @@
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+target/
+logs/
+**/minifiedCss/
+**/rawCss/
+.pmdruleset.xml
+.pmd
+.cache
+.settings
+.idea/
+~          
